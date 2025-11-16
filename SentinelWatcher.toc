@@ -1,0 +1,6 @@
+## Interface: 11200
+## Title: Sentinel Watcher
+## Notes: Shows raid mark icons and buffs (text) on marked Anubisath Sentinels
+## Author: Fayz
+## Version: 1.3
+SentinelWatcher.lua
