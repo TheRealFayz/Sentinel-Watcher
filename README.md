@@ -1,2 +1,2 @@
 # Sentinel-Watcher
-Track the buffs assigned to the Anubisath Sentinel packs in AQ40.
+Shows raid mark icons, kill order, and buffs (text) on marked Anubisath Sentinels
